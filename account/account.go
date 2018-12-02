@@ -3,7 +3,7 @@ package account
 import (
 	"fmt"
 
-	u "github.com/smockoro/mod-user/user"
+	u "github.com/smockoro/mod-user/v2/user"
 )
 
 func AccountHello() {

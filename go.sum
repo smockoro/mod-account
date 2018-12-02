@@ -2,3 +2,5 @@ github.com/smockoro/mod-user v1.0.0 h1:1PksxSHMI1G1+CQ9EsuTYcTa7hkQPsbdoN4z227Sc
 github.com/smockoro/mod-user v1.0.0/go.mod h1:YUDI+6iFXAdcC2ybM96SzuiXgiAYb1u4GJGjTYPuOj0=
 github.com/smockoro/mod-user v1.0.2 h1:FGbp8VvWzCe2zBE8u53AkUkmog7g4WAizt7S7EP0LqY=
 github.com/smockoro/mod-user v1.0.2/go.mod h1:YUDI+6iFXAdcC2ybM96SzuiXgiAYb1u4GJGjTYPuOj0=
+github.com/smockoro/mod-user/v2 v2.0.0 h1:6p7d/nzQSsE2n3V7ifmY274lsbVRDwCjPJCqDgoi4mM=
+github.com/smockoro/mod-user/v2 v2.0.0/go.mod h1:Bie2uxAwHDkmpYv+fNBNcoJ3kTe8y8uOxs//pcdZ45M=
